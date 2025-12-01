@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Exhale Inhale",
+  "base_artist": "AURORA",
+  "createdAt": "2025-12-01T02:31:07.743564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "...And We Exhale And Roll Our Eyes In Unison",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/01_...And_We_Exhale_And_Roll_Our_Eyes_In_Unison_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Exhale",
+      "artist": "Skye",
+      "has_synced": true,
+      "path": "select/02_Exhale_Skye.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Exhale Inhale",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/03_Exhale_Inhale_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Exhale",
+      "artist": "Jónsi",
+      "has_synced": true,
+      "path": "select/04_Exhale_Jónsi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Exhale",
+      "artist": "Jónsi",
+      "has_synced": true,
+      "path": "select/05_Exhale_Jónsi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Exhale",
+      "artist": "Jónsi",
+      "has_synced": true,
+      "path": "select/06_Exhale_Jónsi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Exhale - Edit",
+      "artist": "Jónsi",
+      "has_synced": true,
+      "path": "select/07_Exhale_-_Edit_Jónsi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Exhale (Edit)",
+      "artist": "Jónsi",
+      "has_synced": true,
+      "path": "select/08_Exhale_(Edit)_Jónsi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Exhale the Vile",
+      "artist": "Machine Head",
+      "has_synced": true,
+      "path": "select/09_Exhale_the_Vile_Machine_Head.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Exhale",
+      "artist": "Amaranthe",
+      "has_synced": true,
+      "path": "select/10_Exhale_Amaranthe.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Exhale - Shoop Shoop",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/11_Exhale_-_Shoop_Shoop_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Exhale (Shoop Shoop)",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/12_Exhale_(Shoop_Shoop)_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Exhale",
+      "artist": "Amaranthe",
+      "has_synced": true,
+      "path": "select/13_Exhale_Amaranthe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Exhale (feat. BVDLVD)",
+      "artist": "Uppbeat",
+      "has_synced": false,
+      "path": "select/14_Exhale_(feat._BVDLVD)_Uppbeat.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Exhale (feat. BVDLVD)",
+      "artist": "Uppbeat",
+      "has_synced": false,
+      "path": "select/15_Exhale_(feat._BVDLVD)_Uppbeat.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Exhale",
+      "artist": "ZHU",
+      "has_synced": true,
+      "path": "select/16_Exhale_ZHU.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Exhale Inhale",
+      "artist": "AURORA",
+      "has_synced": false,
+      "path": "select/pl_Exhale_Inhale_AURORA.txt"
+    }
+  ]
+}
